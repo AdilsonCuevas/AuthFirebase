@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="D:\Documents\unipamplona\javaScrip\intentoPag\tele-medicina04-firebase-adminsdk-6q4jc-fc14ec0e80.json"
