@@ -4,6 +4,8 @@
 en este aplicativo abordaremos el manejo de las herramientas que nos brinda la base de datos de GOOGLE llamada firebase, con el fin de autenticar ususarios mediante otras credenciales como GMAIL o FACEBOOK para validar la informacion que se esta trabajando. 
 
 #INSTALACION 
+-instalar NODEjs en la PC de desarrollo y iniciarla en el proyecto a desarrollar mediante la consola con el comando (npm init)
+-instalar en el proyecto los credenciales de firebase (firebase, autfirebase, admifirebase) mediante el comando "npm install ...)
 
 #USO 
 nos despliega una ventana donde nos brinda las opciones de login y registro, una vez autenticado nos mostrata de que el proceso fue exitoso, pero en el caso de que estemos registrando un usuario nos muestra de que el registro se realice por google o facebook para rectificar de que el ususario si es una personal y no un programa el cual pedira una autenticacion a la persona que esta realizando el proceso.
